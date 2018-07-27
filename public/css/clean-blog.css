@@ -4,6 +4,7 @@ body {
   font-family: 'Lora', 'Times New Roman', serif;
 }
 
+
 p {
   line-height: 1.5;
   margin: 30px 0;
@@ -24,14 +25,14 @@ h6 {
 }
 
 a {
-  color: #212529;
+  color: #661580;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 a:focus, a:hover {
-  color: #0085A1;
+  color: #343a40;
 }
 
 blockquote {
@@ -313,6 +314,7 @@ header.masthead .post-heading .meta a {
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 36px;
+    color: #661580;
   }
 }
 
@@ -404,17 +406,21 @@ footer .copyright {
 }
 
 .btn-primary {
-  background-color: #0085A1;
-  border-color: #0085A1;
+  background-color: #338015;
+  border-color: #338015;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
-  background-color: #00657b !important;
-  border-color: #00657b !important;
+  background-color: #371248 !important;
+  border-color: #371248 !important;
 }
 
 .btn-lg {
   font-size: 16px;
   padding: 25px 35px;
+}
+
+header.ttt {
+  background: url(../img/home-purp-bg.jpg);
 }
