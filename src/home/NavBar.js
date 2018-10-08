@@ -19,7 +19,7 @@ class NavBar extends Component {
 			              <a className="nav-link" href="about.html">About</a>
 			            </li>
 			            <li className="nav-item">
-			              <a className="nav-link" href="post.html">Post</a>
+			              <a className="nav-link" href="post.html">Blog Posts</a>
 			            </li>
 			            <li className="nav-item">
 			              <a className="nav-link" href="contact.html">Contact</a>
