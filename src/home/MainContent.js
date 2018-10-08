@@ -17,9 +17,8 @@ class MainContent extends Component {
 		                Problems look mighty small from 150 miles up
 		              </h3>
 		            </a>
-		            <p className="post-meta">Posted by
-		              <a href="#">Start Bootstrap</a>
-		              on September 24, 2018</p>
+		            <p className="post-meta">Posted
+		           on September 24, 2018</p>
 		          </div>
 		          <hr />
 		          <div className="post-preview">
@@ -28,8 +27,7 @@ class MainContent extends Component {
 		                I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.
 		              </h2>
 		            </a>
-		            <p className="post-meta">Posted by
-		              <a href="#">Start Bootstrap</a>
+		            <p className="post-meta">Posted
 		              on September 18, 2018</p>
 		          </div>
 		          <hr />
@@ -42,8 +40,7 @@ class MainContent extends Component {
 		                We predict too much for the next year and yet far too little for the next ten.
 		              </h3>
 		            </a>
-		            <p className="post-meta">Posted by
-		              <a href="#">Start Bootstrap</a>
+		            <p className="post-meta">Posted
 		              on August 24, 2018</p>
 		          </div>
 		          <hr />
@@ -56,8 +53,7 @@ class MainContent extends Component {
 		                Many say exploration is part of our destiny, but it’s actually our duty to future generations.
 		              </h3>
 		            </a>
-		            <p className="post-meta">Posted by
-		              <a href="#">Start Bootstrap</a>
+		            <p className="post-meta">Posted
 		              on July 8, 2018</p>
 		          </div>
 		          <hr />
